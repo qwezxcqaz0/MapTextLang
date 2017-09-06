@@ -10,7 +10,7 @@
 	}
 	"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE  SECRET ***"
 	{
-		"chi"		"** **"
+		"chi"		"**扭曲模式开启：所有人都在故障的电车上-前面没有桥 **"
 	}
 	"*** Tram Starts in 7 Seconds ***"
 	{
